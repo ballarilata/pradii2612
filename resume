@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <div>
+            <h1>Pradeep S</h1>
+            <p>Contact:<a href="abcd.com">pardeep.yes.2002@gmial.com</a></p>
+            <p>linkedin:<a href="abcd.com">pardeep/linkedin</a></p>
+            <p>github: <a href="abcd.com">pardeep/gitHub</a></p>
+
+
+        </div>
+        <table>
+            <tr>
+                <td><img src="pradeep.jpg" alt="pardeep img" width="125px " height="165px"></td>
+                <td>As a student in the computer science department at BIET College, I am a driven and enthusiastic individual with a strong passion for technology. Eager to contribute to the field of computer science, I have developed a solid foundation in programming languages, data structures, and algorithms through my coursework and hands-on projects. I actively seek opportunities to expand my knowledge and stay up-to-date with the latest advancements in the industry. With excellent analytical skills and a keen eye for detail, I thrive in solving complex problems and enjoy working collaboratively in team-based projects. Adaptable, proactive, and eager to learn, I am committed to making a meaningful impact in the ever-evolving world of computer science</td>
+            </tr>
+        </table>
+
+        <section>
+            <details>
+                <summary>Education →</summary>
+                
+            <ul>
+                <li>Bapuji Institute Of Engineering And technology</li>
+                <li>MRM pu College haveri</li>
+                <li>Sri Siddaganga school Davanagere</li>
+            </ul>
+            </details>
+        </section>
+
+        <section> 
+           <details>
+            <summary>Work Experience →</summary>
+            
+            <h3>Teaching Assistant (TA)</h3>
+            <ul>
+                <li>Workshop on HTML , CSS , JAVASCRIPT</li>
+                <li>DSA webinar for 30 student</li>
+            </ul>
+           </details>
+        </section>
+
+        <section>
+            <details>
+                <summary>Skills →</summary>
+                
+            <ul>
+                <li>Data structures</li>
+                <li>algorithms</li>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JAVASCRIPT</li>
+                <li>React </li>
+            </ul>
+            </details>
+        </section>
+
+        <section>
+           <details>
+            <summary>Achievements →</summary>
+            
+            <ul>
+                <li>1st palce in UNICS hackathon</li>
+                <li>Runner up in Manthan</li>
+            </ul>
+           </details>
+        </section>
+        <section>
+           <details>
+            <summary>Projects →</summary>
+            
+            <ul>
+                <li>
+                    <h3>Responsive Portfolio Website: </h3>
+                    <p>Develop a visually appealing and responsive portfolio website that showcases your skills, projects, and achievements. Implement modern design techniques and ensure cross-browser compatibility</p>
+                    <p>Hosted link:<a href="abcd.com">example.com</a></p>
+                    <p>gitHub link:<a href="abcd.com">gitHub.com</a></p>
+
+
+                </li>
+                <li>
+                    <h3>E-commerce Website: </h3>
+                    <p>Create a fully functional e-commerce website with features like product listings, shopping cart functionality, and secure payment integration. Focus on creating an intuitive user interface and a seamless shopping experience</p>
+                    <p>Hosted link: <a href="abcd.com">example.com</a></p>
+                    <p>gitHub link:<a href="abcd.com">gitHub.com</a></p>
+                </li>
+                <li>
+                    <h3>Weather App: </h3>
+                    <p>Build a weather application that fetches real-time weather data from an API and displays it in a user-friendly manner. Incorporate features like location detection, temperature, humidity, and weather condition display</p>
+                    <p>Hosted link: <a href="abcd.com">example.com</a></p>
+                    <p>gitHub link: <a href="abcd.com">gitHub.com</a></p>
+                    
+                </li>
+            </ul>
+           </details>
+        </section>
+        <footer>
+            © 2023 Pradeep S . all rights reserved;
+
+        </footer>
+
+    </div>
+
+</body>
+</html>
